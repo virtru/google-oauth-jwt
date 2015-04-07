@@ -1,3 +1,8 @@
+0.2.1 (VIRTRU)
+=====
+* hardcoded request at 2.54.0
+* removed debug code
+
 0.2.0
 =====
 Fixed: TokenCache now caches authentication tokens per delegation domain
