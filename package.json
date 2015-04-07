@@ -17,7 +17,7 @@
     "server to server"
   ],
   "dependencies": {
-    "request": "*",
+    "request": "2.54.0",
     "debug": "~0.7.2"
   },
   "devDependencies": {
